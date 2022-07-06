@@ -1,4 +1,4 @@
-## Git add
+## Utilizando o comando Git add
 
 Usar o comando git add é muito simples e prático. O exemplo a seguir pode ser executado diretamente no [*Git Bash*](https://git-scm.com/downloads) ou em uma [IDE](https://blog.betrybe.com/tecnologia/ide/) de sua preferência:
 
